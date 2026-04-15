@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ImZGhosty/taskmaster-releases/main/assets/banner.png" alt="TaskMaster" width="100%" />
+<img src="https://raw.githubusercontent.com/Im-ZGhosty/taskmaster-releases/main/assets/banner.png" alt="TaskMaster" width="100%" />
 
 # TaskMaster
 
 **Gestión de tareas para personas que quieren hacer más, con menos ruido.**
 
-[![Última versión](https://img.shields.io/github/v/release/ImZGhosty/taskmaster-releases?style=flat-square&color=c0294a&label=versión)](../../releases/latest)
-[![Descargar](https://img.shields.io/github/downloads/ImZGhosty/taskmaster-releases/total?style=flat-square&color=8840c0&label=descargas)](../../releases)
+[![Última versión](https://img.shields.io/github/v/release/Im-ZGhosty/taskmaster-releases?style=flat-square&color=c0294a&label=versión)](../../releases/latest)
+[![Descargar](https://img.shields.io/github/downloads/Im-ZGhosty/taskmaster-releases/total?style=flat-square&color=8840c0&label=descargas)](../../releases)
 [![Plataforma](https://img.shields.io/badge/plataforma-Windows-0078d4?style=flat-square&logo=windows)](../../releases/latest)
 
 [**⬇ Descargar la última versión**](../../releases/latest) · [Historial de versiones](../../releases) · [Reportar un problema](../../issues)
