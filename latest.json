@@ -1,25 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "## Novedades
-- Sistema de equipos: invitar miembros, unirse con código o link
-- Deep link taskmaster:// para aceptar invitaciones directamente desde el navegador
-- Página de previsualización de invitación con info del equipo
-- Auto-updater silencioso: descarga en segundo plano con badge flotante
-- Sistema de versión mínima para forzar actualizaciones críticas
-
-## Mejoras
-- Registro de cuenta ahora funciona correctamente (fix 403)
-- Ícono en bandeja del sistema sin duplicado
-- Atajos de teclado muestran Ctrl en Windows (antes mostraba ⌘)
-
-## Fixes
-- Categorías ya no se duplican al iniciar la app
-- Race condition en base de datos SQLite resuelta",
-  "pub_date": "2026-04-17T14:42:55.012Z",
+  "version": "0.2.3",
+  "notes": "\n",
+  "pub_date": "2026-04-17T15:43:47.278Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbXNWSVQ1VTJ0dWhraFprWTFpazh6YUxEOXVLbklrODlJRm9URWowUWdTb1F3SEZ3ZktUeU5zSXBlSzdiTmFqYkZFd2Nwd2Y0VFFDblBSUERFMUY2NWg0TDJwWEUyN2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDM2OTQ1CWZpbGU6VGFza01hc3Rlcl8wLjIuMl94NjQtc2V0dXAubnNpcy56aXAKRGRjaTJLVTMraFlMQytkWUhiTWJrODMrN3JJVnJNZTJ1UThGamd3ek1QaHVydW16RTIzTXk3VUJFWDNjV0ZhZFJVYXlNdzBHWU1OTXN0ZWYveGl0QlE9PQo=",
-      "url": "https://github.com/Im-ZGhosty/taskmaster-releases/releases/download/v0.2.2/TaskMaster_0.2.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbXNWSVQ1VTJ0dW1Ea2Uvb0xHRFhjUVNyaWgvUWZGb2gwMGdmZlViMWJoZk9UV0VzTzdZMC9FMjNwdzBlVjlRODF5Rm12NHYvYnhabjc3QUxrU1Z2ZjZCdXl3VHFHT2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDQwNTgxCWZpbGU6VGFza01hc3Rlcl8wLjIuM194NjQtc2V0dXAubnNpcy56aXAKYTVmNzJuTUFXUmliNXJnZnBOWStFMndFY0thKzY3TWw2d2VkRnlvQjdFVXRnTGQrZVVCV0RhNGZtbTRIK2Z4WWpRSWhwMFBkaFZWZEJncVFYQTBVQ0E9PQo=",
+      "url": "https://github.com/Im-ZGhosty/taskmaster-releases/releases/download/v0.2.3/TaskMaster_0.2.3_x64-setup.nsis.zip"
     }
   }
 }
