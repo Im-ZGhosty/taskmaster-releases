@@ -1,0 +1,11 @@
+{
+  "version": "0.2.2",
+  "notes": "v0.2.2\n",
+  "pub_date": "2026-04-17T14:42:55.012Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbXNWSVQ1VTJ0dWhraFprWTFpazh6YUxEOXVLbklrODlJRm9URWowUWdTb1F3SEZ3ZktUeU5zSXBlSzdiTmFqYkZFd2Nwd2Y0VFFDblBSUERFMUY2NWg0TDJwWEUyN2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDM2OTQ1CWZpbGU6VGFza01hc3Rlcl8wLjIuMl94NjQtc2V0dXAubnNpcy56aXAKRGRjaTJLVTMraFlMQytkWUhiTWJrODMrN3JJVnJNZTJ1UThGamd3ek1QaHVydW16RTIzTXk3VUJFWDNjV0ZhZFJVYXlNdzBHWU1OTXN0ZWYveGl0QlE9PQo=",
+      "url": "https://github.com/Im-ZGhosty/taskmaster-releases/releases/download/v0.2.2/TaskMaster_0.2.2_x64-setup.nsis.zip"
+    }
+  }
+}
