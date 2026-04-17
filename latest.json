@@ -1,6 +1,20 @@
 {
   "version": "0.2.2",
-  "notes": "v0.2.2\n",
+  "notes": "## Novedades
+- Sistema de equipos: invitar miembros, unirse con código o link
+- Deep link taskmaster:// para aceptar invitaciones directamente desde el navegador
+- Página de previsualización de invitación con info del equipo
+- Auto-updater silencioso: descarga en segundo plano con badge flotante
+- Sistema de versión mínima para forzar actualizaciones críticas
+
+## Mejoras
+- Registro de cuenta ahora funciona correctamente (fix 403)
+- Ícono en bandeja del sistema sin duplicado
+- Atajos de teclado muestran Ctrl en Windows (antes mostraba ⌘)
+
+## Fixes
+- Categorías ya no se duplican al iniciar la app
+- Race condition en base de datos SQLite resuelta",
   "pub_date": "2026-04-17T14:42:55.012Z",
   "platforms": {
     "windows-x86_64": {
