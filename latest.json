@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "fix: remove unsupported nsis bundle config key\n\nTauri schema rejects 'bundle.nsis' as additional property.\nRemove it so the CI build passes again.\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>\n\n",
-  "pub_date": "2026-04-18T01:53:48.604Z",
+  "version": "0.3.1",
+  "notes": "- Invitaciones: unirse con código o enlace ya no devuelve \"Unauthorized\" (se enviaba la petición sin autenticación)\n- Invitaciones: el botón \"Unirme\" ahora se habilita correctamente al pegar un enlace válido\n- El botón \"Abrir en TaskMaster\" para las invitaciones de equipos\n- Auto-updater: ya no descarga automáticamente sin preguntar, ahora muestra un badge discreto durante la descarga y al reiniciar aparece el modal con las novedades de la versión\n",
+  "pub_date": "2026-04-18T05:40:14.318Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbXNWSVQ1VTJ0dW1mNGR5NDFPNCtxNXdUQ2lNd2p6Sys0ZENPOEpuVnBBZ1lGbGdlN1hmQk5rMTBVVnRPSnRXMFYxNkM5bS9GeUJoNzgxUkcrYzBRRGRkaTV6bVVMTmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDc3MjAwCWZpbGU6VGFza01hc3Rlcl8wLjMuMF94NjQtc2V0dXAubnNpcy56aXAKbjd3alU1S0NSL2JIYjNVdFd3L0tlVG81bmtSdE9BMld2SlQ0YUtOOUFZUkVCOXFTUCtZVk9qM0c4bGFrQVJQYTlaZ0lpdjFzU3Jsb2dWYzg0VWx5QkE9PQo=",
-      "url": "https://github.com/Im-ZGhosty/taskmaster-releases/releases/download/v0.3.0/TaskMaster_0.3.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbXNWSVQ1VTJ0dW9OUlB2YWY0Z0pnTThqQTF3Y01veFRVUnY3MElUbDJnOGdtdExEYkdsM3hEVnZ3enJOa3Ziam4vNDFTMzhDQVc5eHNLNUR4Sng5aWQ3ZG9VcFlDSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDkwNzc3CWZpbGU6VGFza01hc3Rlcl8wLjMuMV94NjQtc2V0dXAubnNpcy56aXAKUEUrZ2RVcVZoZDBmaW1idndnWlRZMldyK2l2SGppR1RIdWFTbzFsbXQyNG5JRW9RbDExeW1VcjJuZ2R2cXA0TTlTZi9ZYW1tUlNTcHpuS1ZqdjJiRGc9PQo=",
+      "url": "https://github.com/Im-ZGhosty/taskmaster-releases/releases/download/v0.3.1/TaskMaster_0.3.1_x64-setup.nsis.zip"
     }
   }
 }
