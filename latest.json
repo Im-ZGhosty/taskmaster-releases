@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "\n",
-  "pub_date": "2026-04-17T15:43:47.278Z",
+  "version": "0.3.0",
+  "notes": "fix: remove unsupported nsis bundle config key\n\nTauri schema rejects 'bundle.nsis' as additional property.\nRemove it so the CI build passes again.\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>\n\n",
+  "pub_date": "2026-04-18T01:53:48.604Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbXNWSVQ1VTJ0dW1Ea2Uvb0xHRFhjUVNyaWgvUWZGb2gwMGdmZlViMWJoZk9UV0VzTzdZMC9FMjNwdzBlVjlRODF5Rm12NHYvYnhabjc3QUxrU1Z2ZjZCdXl3VHFHT2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDQwNTgxCWZpbGU6VGFza01hc3Rlcl8wLjIuM194NjQtc2V0dXAubnNpcy56aXAKYTVmNzJuTUFXUmliNXJnZnBOWStFMndFY0thKzY3TWw2d2VkRnlvQjdFVXRnTGQrZVVCV0RhNGZtbTRIK2Z4WWpRSWhwMFBkaFZWZEJncVFYQTBVQ0E9PQo=",
-      "url": "https://github.com/Im-ZGhosty/taskmaster-releases/releases/download/v0.2.3/TaskMaster_0.2.3_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbXNWSVQ1VTJ0dW1mNGR5NDFPNCtxNXdUQ2lNd2p6Sys0ZENPOEpuVnBBZ1lGbGdlN1hmQk5rMTBVVnRPSnRXMFYxNkM5bS9GeUJoNzgxUkcrYzBRRGRkaTV6bVVMTmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDc3MjAwCWZpbGU6VGFza01hc3Rlcl8wLjMuMF94NjQtc2V0dXAubnNpcy56aXAKbjd3alU1S0NSL2JIYjNVdFd3L0tlVG81bmtSdE9BMld2SlQ0YUtOOUFZUkVCOXFTUCtZVk9qM0c4bGFrQVJQYTlaZ0lpdjFzU3Jsb2dWYzg0VWx5QkE9PQo=",
+      "url": "https://github.com/Im-ZGhosty/taskmaster-releases/releases/download/v0.3.0/TaskMaster_0.3.0_x64-setup.nsis.zip"
     }
   }
 }
