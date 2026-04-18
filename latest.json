@@ -1,11 +1,11 @@
 {
-  "version": "0.3.1",
-  "notes": "- Invitaciones: unirse con código o enlace ya no devuelve \"Unauthorized\" (se enviaba la petición sin autenticación)\n- Invitaciones: el botón \"Unirme\" ahora se habilita correctamente al pegar un enlace válido\n- El botón \"Abrir en TaskMaster\" para las invitaciones de equipos\n- Auto-updater: ya no descarga automáticamente sin preguntar, ahora muestra un badge discreto durante la descarga y al reiniciar aparece el modal con las novedades de la versión\n",
-  "pub_date": "2026-04-18T05:40:14.318Z",
+  "version": "0.3.2",
+  "notes": "- Invitaciones: unirse con código o enlace ya no devuelve \"Unauthorized\" ni error 500\n- Invitaciones: el preview del modal ahora muestra \"✓ Ya eres miembro\" si ya perteneces al equipo, con botón \"Ir al equipo\"\n- Invitaciones: al abrir el enlace siendo ya miembro, muestra pantalla informativa en vez de intentar unirte de nuevo\n- Ya no abre una segunda instancia si la app ya está abierta, enfoca la ventana existente\n- Descarga en segundo plano con badge discreto de progreso, al reiniciar aparece modal con las novedades de la versión\n",
+  "pub_date": "2026-04-18T06:28:22.251Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbXNWSVQ1VTJ0dW9OUlB2YWY0Z0pnTThqQTF3Y01veFRVUnY3MElUbDJnOGdtdExEYkdsM3hEVnZ3enJOa3Ziam4vNDFTMzhDQVc5eHNLNUR4Sng5aWQ3ZG9VcFlDSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDkwNzc3CWZpbGU6VGFza01hc3Rlcl8wLjMuMV94NjQtc2V0dXAubnNpcy56aXAKUEUrZ2RVcVZoZDBmaW1idndnWlRZMldyK2l2SGppR1RIdWFTbzFsbXQyNG5JRW9RbDExeW1VcjJuZ2R2cXA0TTlTZi9ZYW1tUlNTcHpuS1ZqdjJiRGc9PQo=",
-      "url": "https://github.com/Im-ZGhosty/taskmaster-releases/releases/download/v0.3.1/TaskMaster_0.3.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbXNWSVQ1VTJ0dWk5REMvdUZQb2pOY1h1SVNqOFNSb0hGRTdXeXAvQXhqYy9vY21ENThQNDk2RC9NL3RZaUxSajZWTDR5SXkzTVRYbDl3ZlIvZU9sNG9id1ZFZDV3bUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDkzNjcyCWZpbGU6VGFza01hc3Rlcl8wLjMuMl94NjQtc2V0dXAubnNpcy56aXAKU000QWVhczR2Q1pRSjcwTDUxNEtiOUcwQnE3M2dtTDJ0b1ZRSklSL01IdEFJQVZYWW5RSjVjMTBFdVJ3VnhsWkJZNCtlRUtVOFkxTEtZVnd6cUZaQWc9PQo=",
+      "url": "https://github.com/Im-ZGhosty/taskmaster-releases/releases/download/v0.3.2/TaskMaster_0.3.2_x64-setup.nsis.zip"
     }
   }
 }
